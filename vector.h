@@ -3,7 +3,7 @@
 #include<iostream>
 #include<initializer_list>
 #include<stdexcept>
-//using namespace std;
+
 template<typename T>
 class Vector {
 public:
